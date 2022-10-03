@@ -35,4 +35,3 @@ type	button
 reset
 submit	Specifies the type of button
 value	text	Specifies an initial value for the button
-ending
